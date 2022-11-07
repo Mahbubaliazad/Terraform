@@ -80,6 +80,6 @@
 
 - **Important Note:** Please go to these repositories and FORK these repositories and make use of them during the course.
 
-- Thank you!
+Thank you!
 
 Credit: Stacksimplify
