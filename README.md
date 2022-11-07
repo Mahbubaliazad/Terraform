@@ -73,7 +73,7 @@
 
 
 
-## Who are your target students?
+## Who are your target learners?
 - Infrastructure Architects or Sysadmins or Developers who are planning to master Terraform
 - Any beginner who is interested in learning IaC Infrastructure as Code current trending tool Terraform 
 - Anyone who want to learn Terraform from a practical perspective 
